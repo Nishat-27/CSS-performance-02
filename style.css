@@ -1,0 +1,32 @@
+*{
+    background-color: aqua;
+}
+p{
+    color: antiquewhite;
+}
+.class-2 p{
+    background: #fff url("image/anime-pic.jpg")no-repeat fxied 150px 150px;
+}
+.class-1{
+    background-image: url(image/anime%20pic.jpg);
+    background-repeat: no-repeat;
+    height: 250px;;
+    width: 250px;
+    background-position: center;
+}
+.class-1 p{
+    color: brown;
+    background-image: url(image/anime%20pic.jpg);
+    background-repeat: repeat-x;
+}
+.class-1 h1{
+    color: cadetblue;
+}
+.class-1 #first{
+    background-color: cornsilk;
+}
+h2{
+    border-style: solid dotted dashe ridge;
+    border-width: 4px 8px 10px 20px;
+    border-color: darkgreen purple chocolate;
+}
